@@ -96,3 +96,15 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+.pages {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  left: 23.5%;
+}
+.btn {
+  margin: 5px 10px;
+}
+body {
+  overflow-x: hidden;
+}
